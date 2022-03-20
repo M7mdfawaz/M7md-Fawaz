@@ -1,0 +1,142 @@
+ul#liste {
+     text-align: center;
+
+     list-style: none;
+     padding: 0;
+     margin: 0;
+     width: 100%;
+ }
+
+ ul#liste li {
+     margin-bottom: 5px;
+
+     padding: 0;
+ }
+
+ ul#liste li#creme a {
+
+     display: block;
+
+     height: 70px;
+
+     line-height: 70px;
+
+     width: 100%;
+
+     padding-top: 7px;
+
+     border: 1px solid black;
+
+     background: #dedede;
+
+     color: black;
+
+     font-size: 120%;
+
+     text-decoration: none;
+
+     background-image: url(arrow.png),
+         url(cremebrulee.jpg);
+
+     background-position: right center,
+         left center;
+
+     background-size: 90px;
+
+     background-repeat: no-repeat;
+ }
+
+ ul#liste li#tiramisu a {
+
+     display: block;
+
+     height: 70px;
+
+     line-height: 70px;
+
+     width: 100%;
+
+     padding-top: 7px;
+
+     border: 1px solid black;
+
+     background: #dedede;
+
+     color: black;
+
+     font-size: 120%;
+
+     text-decoration: none;
+
+     background-image: url(arrow.png), url(tiramisu.jpg);
+     background-position: right center, left center;
+
+     background-size: 90px;
+     
+     background-repeat: no-repeat;
+ }
+
+ ul#liste li#parisbrest a {
+
+     display: block;
+
+     height: 70px;
+
+     line-height: 70px;
+
+     width: 100%;
+
+     padding-top: 7px;
+
+     border: 1px solid black;
+
+     background: #dedede;
+
+     color: black;
+
+     font-size: 120%;
+
+     text-decoration: none;
+
+     background-image: url(arrow.png),
+         url(parisbrest.jpg);
+
+     background-position: right center,
+         left center;
+
+     background-size: 90px;
+     
+     background-repeat: no-repeat;
+ }
+
+ ul#liste li#macarons a {
+
+     display: block;
+
+     height: 70px;
+
+     line-height: 70px;
+
+     width: 100%;
+
+     padding-top: 7px;
+
+     border: 1px solid black;
+
+     background: #dedede;
+
+     color: black;
+
+     font-size: 120%;
+
+     text-decoration: none;
+
+     background-image: url(arrow.png),
+         url(macarons.jpg);
+
+     background-position: right center,
+         left center;
+
+     background-size: 90px;
+     background-repeat: no-repeat;
+ }

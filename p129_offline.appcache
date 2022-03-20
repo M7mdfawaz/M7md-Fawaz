@@ -1,0 +1,34 @@
+ CACHE MANIFEST
+ 
+# version 1.0
+
+CACHE:
+
+p124,125(cache).html
+
+p126,127_creme.html
+
+tiramisu.html
+
+parisbrest.html
+
+p128,129_fallback.html
+
+p125,126style.css
+
+arrow.png
+
+cremebrulee.jpg
+
+tiramisu.jpg
+
+parisbrest.jpg
+
+macarons.jpg
+
+FALLBACK:
+
+macarons.html p128,129_fallback.html
+
+NETWORK:
+*
